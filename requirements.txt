@@ -1,0 +1,18 @@
+# Core
+numpy
+re
+
+# PDF loader
+PyMuPDF
+
+# Text processing
+regex
+
+# Embeddings
+sentence-transformers
+
+# Vector storage
+faiss-cpu
+
+# OpenAI API
+openai
